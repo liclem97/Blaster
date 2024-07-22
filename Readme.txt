@@ -31,5 +31,5 @@ T : 수류탄
 ESC, Q : 나가기
 
 [게임실행]
-Build > Windows > Blaster.exe
-메인폴더 > Blaster 바로가기
+Blaster >  Blaster.exe
+메인폴더 > Blaster.exe - 바로가기
