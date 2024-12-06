@@ -33,3 +33,8 @@ ESC, Q : 나가기
 [게임실행]
 Blaster >  Blaster.exe
 메인폴더 > Blaster.exe - 바로가기
+
+[플레이 영상]
+https://youtu.be/586ApNVVM8k
+
+해당 프로젝트는 udemy의 Unreal Engine 5 C++ Multiplayer Shooter 강의를 보며 만들었습니다.
