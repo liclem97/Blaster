@@ -37,4 +37,5 @@ Blaster >  Blaster.exe
 [플레이 영상]
 https://youtu.be/586ApNVVM8k
 
-해당 프로젝트는 udemy의 Unreal Engine 5 C++ Multiplayer Shooter 강의를 보며 만들었습니다.
+[참고]
+Unreal Engine 5 C++ Multiplayer Shooter
